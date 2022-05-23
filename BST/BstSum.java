@@ -2,7 +2,7 @@ import java.util.*;
 
 public class BstSum 
 {
-    // BST node
+    //BST node
     static class Node 
     {
         int key;
